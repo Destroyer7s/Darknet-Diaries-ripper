@@ -1,6 +1,9 @@
 # Darknet-Diaries-ripper
 Simple python script to download latest podcasts found on: https://darknetdiaries.com
 
+All that you need to do is run it.
+
+Note: *All audio files downloaded will put in a generated folder ( Darknet Diaries ). It and it's contents will end-up in the directory you run the program from.*
 
 
 ```python
