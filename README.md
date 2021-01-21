@@ -47,7 +47,7 @@ file1.close()
  
     
 # Directory
-directory = "Dark Net Diaries"
+directory = "Darknet Diaries"
  
 # Parent Directory path
 parent_dir = os.path.dirname(os.path.realpath(__file__))
