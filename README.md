@@ -1,4 +1,8 @@
 # Darknet-Diaries-ripper
+
+This is another dumb thing I made when I was bored lol. Jack Rhysider is kinda cool
+
+
 Simple python script to download latest podcasts found on: https://darknetdiaries.com
 
 
