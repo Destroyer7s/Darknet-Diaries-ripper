@@ -1,6 +1,6 @@
 # Darknet-Diaries-ripper
 
-This is another dumb thing I made when I was bored lol. Jack Rhysider is kinda cool
+This is another dumb thing I made when I was bored lol. It may have problems but NO REFUNDS!!! Also Jack Rhysider is kinda cool  ¯\_(ツ)_/¯
 
 
 Simple python script to download latest podcasts found on: https://darknetdiaries.com
